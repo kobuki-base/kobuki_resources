@@ -1,6 +1,12 @@
 # Kobuki Resources
 
+![Kobuki Logo](media/kobuki_translucent.png)
+
+----
+
 Drawings, models, specifications and media resources for Kobuki.
+
+----
 
 ## Notes
 
